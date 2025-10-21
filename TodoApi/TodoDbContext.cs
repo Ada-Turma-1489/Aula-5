@@ -15,5 +15,15 @@ namespace TodoApi
 
             base.OnConfiguring(optionsBuilder);
         }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Todo>()
+            .Property(t => t.Prioridade)
+            .HasConversion<string>()
+            .HasMaxLength(20);
+
+            base.OnModelCreating(modelBuilder);
+        }
     }
 }

@@ -1,0 +1,178 @@
+2025-10-21 15:53:13.215 -03:00 [INF] Now listening on: https://localhost:7109
+2025-10-21 15:53:13.263 -03:00 [INF] Now listening on: http://localhost:5134
+2025-10-21 15:53:13.320 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-10-21 15:53:13.324 -03:00 [INF] Hosting environment: Development
+2025-10-21 15:53:13.326 -03:00 [INF] Content root path: C:\Users\paulo\source\caixa\aula5\Caixa\TodoApi
+2025-10-21 15:53:13.945 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7109/weatherforecast - null null
+2025-10-21 15:53:14.080 -03:00 [INF] Requisição 0HNGGQCB8S5JS:00000003 => GET /weatherforecast levou 391300 ns e retornou 404
+2025-10-21 15:53:14.086 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7109/weatherforecast - 404 0 null 147.1116ms
+2025-10-21 15:53:14.093 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7109/weatherforecast, Response status code: 404
+2025-10-21 15:59:26.285 -03:00 [INF] Now listening on: https://localhost:7109
+2025-10-21 15:59:26.312 -03:00 [INF] Now listening on: http://localhost:5134
+2025-10-21 15:59:26.370 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-10-21 15:59:26.371 -03:00 [INF] Hosting environment: Development
+2025-10-21 15:59:26.372 -03:00 [INF] Content root path: C:\Users\paulo\source\caixa\aula5\Caixa\TodoApi
+2025-10-21 15:59:26.886 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7109/weatherforecast - null null
+2025-10-21 15:59:27.010 -03:00 [INF] Requisição 0HNGGQFQDUCC9:00000003 => GET /weatherforecast levou 785800 ns e retornou 404
+2025-10-21 15:59:27.015 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7109/weatherforecast - 404 0 null 137.6997ms
+2025-10-21 15:59:27.022 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7109/weatherforecast, Response status code: 404
+2025-10-21 16:00:04.669 -03:00 [INF] Now listening on: https://localhost:7109
+2025-10-21 16:00:04.703 -03:00 [INF] Now listening on: http://localhost:5134
+2025-10-21 16:00:04.783 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-10-21 16:00:04.785 -03:00 [INF] Hosting environment: Development
+2025-10-21 16:00:04.786 -03:00 [INF] Content root path: C:\Users\paulo\source\caixa\aula5\Caixa\TodoApi
+2025-10-21 16:00:05.217 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7109/weatherforecast - null null
+2025-10-21 16:00:05.360 -03:00 [INF] Requisição 0HNGGQG5Q0P5E:00000003 => GET /weatherforecast levou 316000 ns e retornou 404
+2025-10-21 16:00:05.366 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7109/weatherforecast - 404 0 null 153.7889ms
+2025-10-21 16:00:05.371 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7109/weatherforecast, Response status code: 404
+2025-10-21 16:01:27.584 -03:00 [INF] Requisição 0HNGGQGUAHJ0B:00000003 => GET /weatherforecast levou 369700 ns e retornou 404
+2025-10-21 16:01:46.356 -03:00 [INF] Now listening on: https://localhost:7109
+2025-10-21 16:01:46.394 -03:00 [INF] Now listening on: http://localhost:5134
+2025-10-21 16:01:46.474 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-10-21 16:01:46.476 -03:00 [INF] Hosting environment: Development
+2025-10-21 16:01:46.478 -03:00 [INF] Content root path: C:\Users\paulo\source\caixa\aula5\Caixa\TodoApi
+2025-10-21 16:01:46.909 -03:00 [INF] Requisição 0HNGGQH42UQBF:00000003 => GET /weatherforecast levou 255800 ns e retornou 404
+2025-10-21 16:02:05.208 -03:00 [INF] Now listening on: https://localhost:7109
+2025-10-21 16:02:05.240 -03:00 [INF] Now listening on: http://localhost:5134
+2025-10-21 16:02:05.304 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-10-21 16:02:05.307 -03:00 [INF] Hosting environment: Development
+2025-10-21 16:02:05.309 -03:00 [INF] Content root path: C:\Users\paulo\source\caixa\aula5\Caixa\TodoApi
+2025-10-21 16:02:06.090 -03:00 [INF] Requisição 0HNGGQH9R6CBE:00000003 => GET /weatherforecast levou 241300 ns e retornou 404
+2025-10-21 16:02:17.933 -03:00 [INF] Now listening on: https://localhost:7109
+2025-10-21 16:02:17.965 -03:00 [INF] Now listening on: http://localhost:5134
+2025-10-21 16:02:18.025 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-10-21 16:02:18.029 -03:00 [INF] Hosting environment: Development
+2025-10-21 16:02:18.030 -03:00 [INF] Content root path: C:\Users\paulo\source\caixa\aula5\Caixa\TodoApi
+2025-10-21 16:02:18.631 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7109/weatherforecast - null null
+2025-10-21 16:02:18.756 -03:00 [INF] Requisição 0HNGGQHDJUP29:00000003 => GET /weatherforecast levou 204200 ns e retornou 404
+2025-10-21 16:02:18.765 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7109/weatherforecast - 404 0 null 140.6438ms
+2025-10-21 16:02:18.772 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7109/weatherforecast, Response status code: 404
+2025-10-21 16:02:31.778 -03:00 [INF] Now listening on: https://localhost:7109
+2025-10-21 16:02:31.812 -03:00 [INF] Now listening on: http://localhost:5134
+2025-10-21 16:02:31.902 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-10-21 16:02:31.905 -03:00 [INF] Hosting environment: Development
+2025-10-21 16:02:31.908 -03:00 [INF] Content root path: C:\Users\paulo\source\caixa\aula5\Caixa\TodoApi
+2025-10-21 16:02:32.273 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7109/weatherforecast - null null
+2025-10-21 16:02:32.411 -03:00 [INF] Requisição 0HNGGQHHKT4F5:00000003 => GET /weatherforecast levou 242800 ns e retornou 404
+2025-10-21 16:02:32.420 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7109/weatherforecast - 404 0 null 153.3641ms
+2025-10-21 16:02:32.425 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7109/weatherforecast, Response status code: 404
+2025-10-21 16:02:52.299 -03:00 [INF] Now listening on: https://localhost:7109
+2025-10-21 16:02:52.334 -03:00 [INF] Now listening on: http://localhost:5134
+2025-10-21 16:02:52.397 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-10-21 16:02:52.398 -03:00 [INF] Hosting environment: Development
+2025-10-21 16:02:52.399 -03:00 [INF] Content root path: C:\Users\paulo\source\caixa\aula5\Caixa\TodoApi
+2025-10-21 16:02:53.052 -03:00 [INF] Requisição 0HNGGQHNR29RG:00000003 => GET /weatherforecast levou 215800 ns e retornou 404
+2025-10-21 16:13:57.933 -03:00 [INF] Now listening on: https://localhost:7109
+2025-10-21 16:13:57.963 -03:00 [INF] Now listening on: http://localhost:5134
+2025-10-21 16:13:58.023 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-10-21 16:13:58.025 -03:00 [INF] Hosting environment: Development
+2025-10-21 16:13:58.026 -03:00 [INF] Content root path: C:\Users\paulo\source\caixa\aula5\Caixa\TodoApi
+2025-10-21 16:13:58.809 -03:00 [INF] Requisição 0HNGGQNU83FCP:00000003 => GET /weatherforecast levou 226900 ns e retornou 404
+2025-10-21 16:14:43.752 -03:00 [INF] Now listening on: https://localhost:7109
+2025-10-21 16:14:43.781 -03:00 [INF] Now listening on: http://localhost:5134
+2025-10-21 16:14:43.837 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-10-21 16:14:43.838 -03:00 [INF] Hosting environment: Development
+2025-10-21 16:14:43.840 -03:00 [INF] Content root path: C:\Users\paulo\source\caixa\aula5\Caixa\TodoApi
+2025-10-21 16:14:44.668 -03:00 [INF] Requisição 0HNGGQOBT28D1:00000003 => GET /weatherforecast levou 435800 ns e retornou 404
+2025-10-21 16:14:54.341 -03:00 [ERR] Ocorreu uma exceção não tratada.
+System.Exception: Erro
+   at TodoApi.Controllers.TodoController.GetAll() in C:\Users\paulo\source\caixa\aula5\Caixa\TodoApi\Controllers\TodoController.cs:line 18
+   at lambda_method2(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|26_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+2025-10-21 16:14:54.402 -03:00 [INF] Requisição 0HNGGQOBT28D1:00000005 => GET /todo levou 2660185700 ns e retornou 500
+2025-10-21 16:22:33.604 -03:00 [INF] Now listening on: https://localhost:7109
+2025-10-21 16:22:33.635 -03:00 [INF] Now listening on: http://localhost:5134
+2025-10-21 16:22:33.706 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-10-21 16:22:33.709 -03:00 [INF] Hosting environment: Development
+2025-10-21 16:22:33.711 -03:00 [INF] Content root path: C:\Users\paulo\source\caixa\aula5\Caixa\TodoApi
+2025-10-21 16:22:34.415 -03:00 [INF] Requisição 0HNGGQSNT5KSC:00000003 => GET /weatherforecast levou 896600 ns e retornou 404
+2025-10-21 16:22:53.575 -03:00 [INF] Requisição 0HNGGQSNT5KSC:0000001B => GET /todo levou 698670000 ns e retornou 200
+2025-10-21 16:32:53.634 -03:00 [INF] Now listening on: https://localhost:7109
+2025-10-21 16:32:53.663 -03:00 [INF] Now listening on: http://localhost:5134
+2025-10-21 16:32:53.725 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-10-21 16:32:53.732 -03:00 [INF] Hosting environment: Development
+2025-10-21 16:32:53.733 -03:00 [INF] Content root path: C:\Users\paulo\source\caixa\aula5\Caixa\TodoApi
+2025-10-21 16:32:54.504 -03:00 [INF] Requisição 0HNGGR2GLUHQ7:00000003 => GET /weatherforecast levou 322200 ns e retornou 404
+2025-10-21 16:33:11.587 -03:00 [INF] Requisição 0HNGGR2GLUHQ7:00000011 => GET /todo levou 696472400 ns e retornou 200
+2025-10-21 16:36:03.496 -03:00 [INF] Now listening on: https://localhost:7109
+2025-10-21 16:36:03.521 -03:00 [INF] Now listening on: http://localhost:5134
+2025-10-21 16:36:03.583 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-10-21 16:36:03.586 -03:00 [INF] Hosting environment: Development
+2025-10-21 16:36:03.591 -03:00 [INF] Content root path: C:\Users\paulo\source\caixa\aula5\Caixa\TodoApi
+2025-10-21 16:36:04.437 -03:00 [INF] Requisição 0HNGGR499BOLT:00000003 => GET /weatherforecast levou 368000 ns e retornou 404
+2025-10-21 16:41:13.195 -03:00 [INF] Now listening on: https://localhost:7109
+2025-10-21 16:41:13.226 -03:00 [INF] Now listening on: http://localhost:5134
+2025-10-21 16:41:13.294 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-10-21 16:41:13.298 -03:00 [INF] Hosting environment: Development
+2025-10-21 16:41:13.304 -03:00 [INF] Content root path: C:\Users\paulo\source\caixa\aula5\Caixa\TodoApi
+2025-10-21 16:41:14.127 -03:00 [INF] Requisição 0HNGGR75JHUH7:00000003 => GET /weatherforecast levou 364800 ns e retornou 404
+2025-10-21 16:42:13.352 -03:00 [INF] Now listening on: https://localhost:7109
+2025-10-21 16:42:13.382 -03:00 [INF] Now listening on: http://localhost:5134
+2025-10-21 16:42:13.451 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-10-21 16:42:13.454 -03:00 [INF] Hosting environment: Development
+2025-10-21 16:42:13.461 -03:00 [INF] Content root path: C:\Users\paulo\source\caixa\aula5\Caixa\TodoApi
+2025-10-21 16:49:21.484 -03:00 [INF] Now listening on: https://localhost:7109
+2025-10-21 16:49:21.513 -03:00 [INF] Now listening on: http://localhost:5134
+2025-10-21 16:49:21.594 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-10-21 16:49:21.597 -03:00 [INF] Hosting environment: Development
+2025-10-21 16:49:21.604 -03:00 [INF] Content root path: C:\Users\paulo\source\caixa\aula5\Caixa\TodoApi
+2025-10-21 16:49:51.009 -03:00 [INF] Now listening on: https://localhost:7109
+2025-10-21 16:49:51.045 -03:00 [INF] Now listening on: http://localhost:5134
+2025-10-21 16:49:51.119 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-10-21 16:49:51.131 -03:00 [INF] Hosting environment: Development
+2025-10-21 16:49:51.133 -03:00 [INF] Content root path: C:\Users\paulo\source\caixa\aula5\Caixa\TodoApi
+2025-10-21 16:49:58.851 -03:00 [INF] Requisição 0HNGGRBVS532N:0000000B => GET /todo/333 levou 690937400 ns e retornou 404
+2025-10-21 16:50:13.913 -03:00 [INF] Requisição 0HNGGRBVS532P:00000001 => GET /todo/5555 levou 52276100 ns e retornou 404
+2025-10-21 17:15:34.739 -03:00 [INF] Now listening on: https://localhost:7109
+2025-10-21 17:15:34.807 -03:00 [INF] Now listening on: http://localhost:5134
+2025-10-21 17:15:34.921 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-10-21 17:15:34.926 -03:00 [INF] Hosting environment: Development
+2025-10-21 17:15:34.943 -03:00 [INF] Content root path: C:\Users\paulo\source\caixa\aula5\Caixa\TodoApi
+2025-10-21 17:19:07.696 -03:00 [INF] Now listening on: https://localhost:7109
+2025-10-21 17:19:07.727 -03:00 [INF] Now listening on: http://localhost:5134
+2025-10-21 17:19:07.798 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-10-21 17:19:07.801 -03:00 [INF] Hosting environment: Development
+2025-10-21 17:19:07.808 -03:00 [INF] Content root path: C:\Users\paulo\source\caixa\aula5\Caixa\TodoApi
+2025-10-21 17:19:29.479 -03:00 [ERR] Ocorreu uma exceção não tratada.
+TodoApi.Controllers.EntityNotFoundException: Exception of type 'TodoApi.Controllers.EntityNotFoundException' was thrown.
+   at TodoApi.Controllers.TodoController.GetAll() in C:\Users\paulo\source\caixa\aula5\Caixa\TodoApi\Controllers\TodoController.cs:line 27
+   at lambda_method3(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|26_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+2025-10-21 17:24:08.372 -03:00 [INF] Now listening on: https://localhost:7109
+2025-10-21 17:24:08.408 -03:00 [INF] Now listening on: http://localhost:5134
+2025-10-21 17:24:08.478 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-10-21 17:24:08.489 -03:00 [INF] Hosting environment: Development
+2025-10-21 17:24:08.489 -03:00 [INF] Content root path: C:\Users\paulo\source\caixa\aula5\Caixa\TodoApi
+2025-10-21 17:24:18.403 -03:00 [ERR] Ocorreu uma exceção não tratada.
+TodoApi.Controllers.EntityNotFoundException: Exception of type 'TodoApi.Controllers.EntityNotFoundException' was thrown.
+   at TodoApi.Controllers.TodoController.GetAll() in C:\Users\paulo\source\caixa\aula5\Caixa\TodoApi\Controllers\TodoController.cs:line 27
+   at lambda_method3(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|26_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+2025-10-21 17:24:24.426 -03:00 [INF] Requisição 0HNGGRV50KIAM:00000011 => GET /todo levou 10787352300 ns e retornou 404
